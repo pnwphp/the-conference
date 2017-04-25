@@ -77,7 +77,6 @@ The [CFP is open](https://cfp.pnwphp.com) until **2017 May 15th**
 
 ## Additional Information
 
-
 * [Code of Conduct](code-of-conduct.md)
 * [Speaker Agreement](cfp-content.md#speaker-agreement)
-
+* [Day Of Supplies](day-of-supplies.md)
