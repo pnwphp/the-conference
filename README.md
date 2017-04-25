@@ -38,9 +38,9 @@ We hope you will join with us for this amazing learning and networking experienc
 
 ## Sponsor Information
 
-* [Prospectus](sponsors/prospectus.pdf)
 * [Day of Information](sponsors/day-of.md)
 * [Sponsors](sponsors/README.md)
+* [Prospectus](sponsors/sponsorship-prospectus.pdf)
   - Platinum
   - Gold
   - Silver
