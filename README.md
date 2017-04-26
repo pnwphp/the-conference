@@ -33,14 +33,15 @@ We hope you will join with us for this amazing learning and networking experienc
 
 ## Ticket Information
 
-* $249 - Conference Only
-* $299 - Conference + Workshop
+2017 prices yet to be determined
+
+* ~~$249~~ &mdash; Conference Only
+* ~~$299~~ &mdash; Conference + Workshop
 
 ## Sponsor Information
 
-* [Day of Information](sponsors/day-of.md)
-* [Sponsors](sponsors/README.md)
 * [Prospectus](sponsors/sponsorship-prospectus.pdf)
+* [Sponsors](sponsors/README.md)
   - Platinum
   - Gold
   - Silver
@@ -55,25 +56,25 @@ The [CFP is open](https://cfp.pnwphp.com) until **2017 May 15th**
 ## PNWPHP Schedule
 
 ### 2017-09-07 Workshops Day
-* 09:00 - 12:30 Morning Workshops
-* 12:30 - 13:30 *LUNCH*
-* 13:30 - 17:00 Afternoon Workshops 
-* 19:00 - 22:00 Speaker Dinner
+* 09:00 &ndash; 12:30 Morning Workshops
+* 12:30 &ndash; 13:30 *LUNCH*
+* 13:30 &ndash; 17:00 Afternoon Workshops
+* 19:00 &ndash; 22:00 Speaker Dinner
 
 ### 2017-09-16 Conference Sessions Day 1
-* 09:00 - 09:10 Welcome to PNWPHP
-* 12:15 - 13:30 *Lunch*
-* 14:45 - 15:15 *Afternoon Break*
-* 16:15 - 16:45 *Late Afternoon Break*
-* 18:00 - 22:00 Dinner &amp; Reception
+* 09:00 &ndash; 09:10 Welcome to PNWPHP
+* 12:15 &ndash; 13:30 *Lunch*
+* 14:45 &ndash; 15:15 *Afternoon Break*
+* 16:15 &ndash; 16:45 *Late Afternoon Break*
+* 18:00 &ndash; 22:00 Dinner &amp; Reception
 
 
 ### 2017-09-17 Conference Sessions Day 2
-* 09:00 - 09:45 Opening Talk
-* 10:30 - 11:00 *Morning Break*
-* 12:15 - 13:30 *Lunch*
-* 15:30 - 16:00 *Afternoon Break*
-* 17:20 - 17:45 Wrap Up
+* 09:00 &ndash; 09:45 Opening Talk
+* 10:30 &ndash; 11:00 *Morning Break*
+* 12:15 &ndash; 13:30 *Lunch*
+* 15:30 &ndash; 16:00 *Afternoon Break*
+* 17:20 &ndash; 17:45 Wrap Up
 
 ## Additional Information
 
