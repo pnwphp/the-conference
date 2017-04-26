@@ -1,42 +1,31 @@
 
 # Sponsors
 
+These are the 2017 sponsors.
+
 ## Platinum
 
-* [Cisco Dev Net](cisco-dev-net.md)
+* [name](template.md)
 
 ## Gold
 
-* [Sterling Talent Solutions](sterling-talent-solutions.md)
-* [Alegion](alegion.md)
+* [name](template.md)
 
 ## Silver
 
-* [Mercutio](mercutio.md)
-* [GoSolid](gosolid.md)
-* [Contentful](contentful.md)
+* [name](template.md)
 
 ## Bronze
 
-* [GitLab](gitLab.md)
-* [Remitly](remitly.md)
-* [McGraw Hill Education](mcgraw-hill-education.md)
+* [name](template.md)
 
 
 ## Copper
 
-* [in2it](in2it.md)
-* [Cool Blue Web](cool-blue-web.md)
-* [Cloudways](cloudways.md)
-* [Nexmo](nexmo.md)
-* [Mulesoft](mulesoft.md)
-* [Siteground](siteground.md)
+* [name](template.md)
 
 
 ## Community
 
-* [Seattle CoderDojo](seattle-coderDojo.md)
-* [SEA Tech Events](sea-tech-events.md)
-* [PDX Tech Events](pdx-tech-events.md)
-* [The @phpbard](the-phpbard.md)
+* [name](template.md)
  
